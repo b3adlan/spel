@@ -1,0 +1,5 @@
+{
+  "en": ["apple", "bread", "cloud"],
+  "sv": ["äpple", "bröd", "moln"],
+  "ar": ["تفاح", "خبز", "سحاب"]
+}

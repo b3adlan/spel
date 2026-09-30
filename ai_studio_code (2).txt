@@ -1,0 +1,5 @@
+[
+  {"name": "Stockholm", "lat": 59.3293, "lng": 18.0686, "type": "city"},
+  {"name": "Vättern", "lat": 58.3, "lng": 14.5, "type": "lake"},
+  {"name": "Paris", "lat": 48.8566, "lng": 2.3522, "type": "city"}
+]
