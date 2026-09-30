@@ -1,0 +1,2 @@
+# spel
+Globe och wordle
